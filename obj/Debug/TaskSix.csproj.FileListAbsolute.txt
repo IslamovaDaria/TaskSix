@@ -1,0 +1,7 @@
+C:\Users\Daria\source\repos\TaskSix\TaskSix\bin\Debug\TaskSix.exe.config
+C:\Users\Daria\source\repos\TaskSix\TaskSix\bin\Debug\TaskSix.exe
+C:\Users\Daria\source\repos\TaskSix\TaskSix\bin\Debug\TaskSix.pdb
+C:\Users\Daria\source\repos\TaskSix\TaskSix\obj\Debug\TaskSix.csprojResolveAssemblyReference.cache
+C:\Users\Daria\source\repos\TaskSix\TaskSix\obj\Debug\TaskSix.csproj.CoreCompileInputs.cache
+C:\Users\Daria\source\repos\TaskSix\TaskSix\obj\Debug\TaskSix.exe
+C:\Users\Daria\source\repos\TaskSix\TaskSix\obj\Debug\TaskSix.pdb
